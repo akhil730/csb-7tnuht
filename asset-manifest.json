@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://akhil730.github.io/csb-7tnuht/static/css/main.fc5c2c69.css",
+    "main.js": "https://akhil730.github.io/csb-7tnuht/static/js/main.d007f399.js",
+    "index.html": "https://akhil730.github.io/csb-7tnuht/index.html",
+    "main.fc5c2c69.css.map": "https://akhil730.github.io/csb-7tnuht/static/css/main.fc5c2c69.css.map",
+    "main.d007f399.js.map": "https://akhil730.github.io/csb-7tnuht/static/js/main.d007f399.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5c2c69.css",
+    "static/js/main.d007f399.js"
+  ]
+}
